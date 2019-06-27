@@ -1,0 +1,1 @@
+Basic app that demonstrates how to load balance a dockerized Node.js applications with NGINX.
